@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.5">
+  <diagram name="第 1 页" id="Y2Nl0OcvwflY47EKPRsf">
+    <mxGraphModel dx="1556" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="29tmSusVFAzkGSltw5tu-20" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="试题" vertex="1">
+          <mxGeometry height="40" width="100" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-24" edge="1" parent="1" source="29tmSusVFAzkGSltw5tu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="29tmSusVFAzkGSltw5tu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-25" connectable="0" parent="29tmSusVFAzkGSltw5tu-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="包含" vertex="1">
+          <mxGeometry relative="1" x="-0.1612" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-30" edge="1" parent="1" source="29tmSusVFAzkGSltw5tu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="29tmSusVFAzkGSltw5tu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-31" connectable="0" parent="29tmSusVFAzkGSltw5tu-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="被包含" vertex="1">
+          <mxGeometry relative="1" x="0.0118" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-22" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="试卷" vertex="1">
+          <mxGeometry height="40" width="100" x="570" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-23" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="大题" vertex="1">
+          <mxGeometry height="40" width="100" x="570" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-33" edge="1" parent="1" source="29tmSusVFAzkGSltw5tu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="29tmSusVFAzkGSltw5tu-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-34" connectable="0" parent="29tmSusVFAzkGSltw5tu-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="包含" vertex="1">
+          <mxGeometry relative="1" x="-0.0906" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-29" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="卷集" vertex="1">
+          <mxGeometry height="40" width="100" x="800" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-32" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="卷集试卷" vertex="1">
+          <mxGeometry height="40" width="100" x="800" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="29tmSusVFAzkGSltw5tu-35" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="试卷分类" vertex="1">
+          <mxGeometry height="40" width="100" x="800" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
