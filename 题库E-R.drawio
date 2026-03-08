@@ -984,7 +984,7 @@
         <mxCell id="iDexICdnTVwakxenE08F-2" edge="1" parent="1" source="AfOVFr5t6ywHrhaV22P6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iDexICdnTVwakxenE08F-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AfOVFr5t6ywHrhaV22P6-8" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="按邮箱查询用户" vertex="1">
+        <mxCell id="AfOVFr5t6ywHrhaV22P6-8" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="提交登录信息" vertex="1">
           <mxGeometry height="30" width="100" x="261" y="314" as="geometry" />
         </mxCell>
         <mxCell id="iDexICdnTVwakxenE08F-32" edge="1" parent="1" source="AfOVFr5t6ywHrhaV22P6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iDexICdnTVwakxenE08F-31" value="">
@@ -1108,13 +1108,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iDexICdnTVwakxenE08F-43" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="保存用户" vertex="1">
-          <mxGeometry height="30" width="100" x="469" y="665" as="geometry" />
+          <mxGeometry height="30" width="100" x="469" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="iDexICdnTVwakxenE08F-47" edge="1" parent="1" source="iDexICdnTVwakxenE08F-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="AfOVFr5t6ywHrhaV22P6-21">
+        <mxCell id="iDexICdnTVwakxenE08F-49" edge="1" parent="1" source="iDexICdnTVwakxenE08F-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iDexICdnTVwakxenE08F-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iDexICdnTVwakxenE08F-44" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="分配角色" vertex="1">
-          <mxGeometry height="30" width="100" x="469" y="740" as="geometry" />
+          <mxGeometry height="30" width="100" x="469" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="iDexICdnTVwakxenE08F-50" edge="1" parent="1" source="iDexICdnTVwakxenE08F-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="AfOVFr5t6ywHrhaV22P6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iDexICdnTVwakxenE08F-48" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="注册成功" vertex="1">
+          <mxGeometry height="30" width="100" x="469" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
