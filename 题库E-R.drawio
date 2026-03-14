@@ -3244,7 +3244,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-YUbJVy-wAGKre3vC7PY" name="功能需求用例图">
-    <mxGraphModel dx="2836" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1013" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3718,6 +3718,23 @@
         </mxCell>
         <mxCell id="b3czLM-EOvyLXHpaV438-181" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="编辑试卷" vertex="1">
           <mxGeometry height="30" width="70" x="1390" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="b3czLM-EOvyLXHpaV438-187" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" target="b3czLM-EOvyLXHpaV438-184">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1605" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3czLM-EOvyLXHpaV438-188" edge="1" parent="1" source="b3czLM-EOvyLXHpaV438-183" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" target="b3czLM-EOvyLXHpaV438-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b3czLM-EOvyLXHpaV438-183" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="未登录人员" vertex="1">
+          <mxGeometry height="60" width="30" x="1590" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="b3czLM-EOvyLXHpaV438-184" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="查询科目信息" vertex="1">
+          <mxGeometry height="40" width="100" x="1730" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b3czLM-EOvyLXHpaV438-185" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="查询卷集列表" vertex="1">
+          <mxGeometry height="40" width="100" x="1730" y="235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
