@@ -3752,7 +3752,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WLpmrd0JOXUR2frX0ZHx" name="系统逻辑模型">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2578" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3843,32 +3843,11 @@
         <mxCell id="fXetVswetK5O5WYd9_ss-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="系统关联层" vertex="1">
           <mxGeometry height="30" width="120" x="348.5" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="fXetVswetK5O5WYd9_ss-240" parent="1" style="html=1;dashed=0;whiteSpace=wrap;container=0;" value="管理端用户" vertex="1">
-          <mxGeometry height="108" width="105.5" x="80" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="fXetVswetK5O5WYd9_ss-241" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="50" width="100" x="348.5" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="fXetVswetK5O5WYd9_ss-242" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="" vertex="1">
-          <mxGeometry height="30" width="100" x="610" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="fXetVswetK5O5WYd9_ss-243" parent="1" style="html=1;dashed=0;whiteSpace=wrap;container=0;" value="未登录用户" vertex="1">
-          <mxGeometry height="108" width="105.5" x="840" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="fXetVswetK5O5WYd9_ss-244" parent="1" style="html=1;dashed=0;whiteSpace=wrap;container=0;" value="学员" vertex="1">
-          <mxGeometry height="108" width="105.5" x="840" y="890" as="geometry" />
-        </mxCell>
-        <mxCell id="fXetVswetK5O5WYd9_ss-245" parent="1" style="html=1;dashed=0;whiteSpace=wrap;container=0;" value="管理端用户" vertex="1">
-          <mxGeometry height="108" width="105.5" x="80" y="890" as="geometry" />
-        </mxCell>
-        <mxCell id="fXetVswetK5O5WYd9_ss-246" parent="1" style="html=1;dashed=0;whiteSpace=wrap;container=0;" value="未登录用户" vertex="1">
-          <mxGeometry height="108" width="105.5" x="80" y="1169" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="c-uIZKQD6H62FwNSsiXD" name="小程序登录时序图">
-    <mxGraphModel dx="2836" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
