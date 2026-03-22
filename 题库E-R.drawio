@@ -3872,69 +3872,69 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=24;" value="小程序" vertex="1">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;fillColor=#E7E7E7;" value="小程序" vertex="1">
           <mxGeometry height="1119" width="150" x="20" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="WechatAuthController" vertex="1">
-          <mxGeometry height="1118" width="183" x="350" y="20" as="geometry" />
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#E7E7E7;fontSize=20;" value="WechatAuthController" vertex="1">
+          <mxGeometry height="1118" width="220" x="350" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="WechatLoginService" vertex="1">
-          <mxGeometry height="1118" width="172" x="662" y="20" as="geometry" />
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#E7E7E7;fontSize=20;" value="WechatLoginService" vertex="1">
+          <mxGeometry height="1118" width="198" x="662" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="微信 code2Session" vertex="1">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#E7E7E7;fontSize=20;" value="微信 code2Session" vertex="1">
           <mxGeometry height="1118" width="161" x="1065" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="CustomerRepository" vertex="1">
-          <mxGeometry height="1118" width="172" x="1276" y="20" as="geometry" />
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#E7E7E7;fontSize=20;" value="CustomerRepository" vertex="1">
+          <mxGeometry height="1118" width="194" x="1276" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="JwtUtil" vertex="1">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#E7E7E7;fontSize=20;" value="JwtUtil" vertex="1">
           <mxGeometry height="1118" width="150" x="1498" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-7" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" value="alt" vertex="1">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-7" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=20;" value="alt" vertex="1">
           <mxGeometry height="374" width="725" x="648" y="359" as="geometry" />
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-8" parent="TCCOQ0mDscR0LdEMKUUj-7" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[用户不存在]" vertex="1">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-8" parent="TCCOQ0mDscR0LdEMKUUj-7" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;" value="[用户不存在]" vertex="1">
           <mxGeometry height="20" width="695" x="30" as="geometry" />
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-9" parent="TCCOQ0mDscR0LdEMKUUj-7" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[用户已存在]" vertex="1">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-9" parent="TCCOQ0mDscR0LdEMKUUj-7" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontSize=20;" value="[用户已存在]" vertex="1">
           <mxGeometry height="4" width="725" y="192" as="geometry" />
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-10" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-2" value="POST /api/auth/wechat/login (code)">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-10" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-2" value="POST /api/auth/wechat/login (code)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="277" y="131" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-11" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-3" value="login(code)">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-11" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-3" value="login(code)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="603" y="179" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-12" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-4" value="GET jscode2session?appid&amp;secret&amp;js_code">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-12" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-4" value="GET jscode2session?appid&amp;secret&amp;js_code">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="955" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-13" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-3" value="openid, session_key, unionid">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-13" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-3" value="openid, session_key, unionid">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="958" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-14" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-5" value="findByOpenid(openid)">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-14" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-5" value="findByOpenid(openid)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1063" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-15" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="curved=1;endArrow=block;rounded=0;" target="TCCOQ0mDscR0LdEMKUUj-3" value="createCustomer()">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-15" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="curved=1;endArrow=block;rounded=0;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-3" value="createCustomer()">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="799" y="440" />
@@ -3942,14 +3942,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-16" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-5" value="save(customer)">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-16" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-5" value="save(customer)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1063" y="526" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-17" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="curved=1;endArrow=block;rounded=0;" target="TCCOQ0mDscR0LdEMKUUj-3" value="更新 sessionKey/unionid">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-17" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="curved=1;endArrow=block;rounded=0;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-3" value="更新 sessionKey/unionid">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="799" y="627" />
@@ -3957,46 +3957,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-18" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-5" value="save(customer)">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-18" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-5" value="save(customer)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1063" y="713" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-19" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-6" value="generateTokenForCustomer(customerId, nickname)">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-19" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-6" value="generateTokenForCustomer(customerId, nickname)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1169" y="779" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-20" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-3" value="token">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-20" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-3" value="token">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1172" y="835" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-21" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-2" value="WechatLoginResult(user, token)">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-21" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-2" value="WechatLoginResult(user, token)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="606" y="891" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-22" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="TCCOQ0mDscR0LdEMKUUj-1" value="Result.success(user, token)">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-22" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-1" value="Result.success(user, token)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="947" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCCOQ0mDscR0LdEMKUUj-23" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-1" style="curved=1;endArrow=block;rounded=0;" target="TCCOQ0mDscR0LdEMKUUj-1" value="写入 storage (token, userInfo)">
+        <mxCell id="TCCOQ0mDscR0LdEMKUUj-23" edge="1" parent="1" source="TCCOQ0mDscR0LdEMKUUj-1" style="curved=1;endArrow=block;rounded=0;fontSize=20;" target="TCCOQ0mDscR0LdEMKUUj-1" value="写入 storage (token, userInfo)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="146" y="1003" />
-              <mxPoint x="146" y="1033" />
+              <mxPoint x="150" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
