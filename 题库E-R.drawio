@@ -5218,13 +5218,13 @@
           <mxGeometry height="368" width="10" x="70" y="111" as="geometry" />
         </mxCell>
         <mxCell id="-c6SZAsmIscJjFPlbl8d-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=24;strokeWidth=2;labelBackgroundColor=none;spacing=3;" value="TagServiceImpl" vertex="1">
-          <mxGeometry height="574" width="169" x="471" y="20" as="geometry" />
+          <mxGeometry height="574" width="180" x="460" y="20" as="geometry" />
         </mxCell>
         <mxCell id="-c6SZAsmIscJjFPlbl8d-5" parent="-c6SZAsmIscJjFPlbl8d-4" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=24;strokeWidth=2;labelBackgroundColor=none;spacing=3;" value="" vertex="1">
           <mxGeometry height="246" width="10" x="70" y="167" as="geometry" />
         </mxCell>
         <mxCell id="-c6SZAsmIscJjFPlbl8d-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=24;strokeWidth=2;labelBackgroundColor=none;spacing=3;" value="TagRepository" vertex="1">
-          <mxGeometry height="574" width="161" x="660" y="20" as="geometry" />
+          <mxGeometry height="574" width="171" x="650" y="20" as="geometry" />
         </mxCell>
         <mxCell id="-c6SZAsmIscJjFPlbl8d-7" parent="-c6SZAsmIscJjFPlbl8d-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=24;strokeWidth=2;labelBackgroundColor=none;spacing=3;" value="" vertex="1">
           <mxGeometry height="46" width="10" x="70" y="215" as="geometry" />
@@ -5250,11 +5250,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-c6SZAsmIscJjFPlbl8d-11" edge="1" parent="1" source="-c6SZAsmIscJjFPlbl8d-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=24;strokeWidth=2;labelBackgroundColor=none;spacing=3;" target="-c6SZAsmIscJjFPlbl8d-5" value="List&lt;Tag&gt;">
+        <mxCell id="-c6SZAsmIscJjFPlbl8d-11" edge="1" parent="1" source="-c6SZAsmIscJjFPlbl8d-7" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=24;strokeWidth=2;labelBackgroundColor=none;spacing=3;" target="-c6SZAsmIscJjFPlbl8d-5" value="List&lt;Tag&gt;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="658" y="291" />
+              <mxPoint x="658" y="276" />
             </Array>
+            <mxPoint x="734.5" y="292" as="sourcePoint" />
+            <mxPoint x="540" y="292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-c6SZAsmIscJjFPlbl8d-12" edge="1" parent="1" source="-c6SZAsmIscJjFPlbl8d-5" style="curved=1;endArrow=block;rounded=0;fontSize=24;strokeWidth=2;labelBackgroundColor=none;spacing=3;" target="-c6SZAsmIscJjFPlbl8d-5" value="按 parentId 递归组装树">
@@ -5303,7 +5305,7 @@
           <mxGeometry height="254" width="10" x="70" y="167" as="geometry" />
         </mxCell>
         <mxCell id="aedOz7NTgG5rMtCSXMwt-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=24;labelBackgroundColor=none;spacing=3;strokeWidth=2;" value="TagRepository" vertex="1">
-          <mxGeometry height="582" width="150" x="710" y="20" as="geometry" />
+          <mxGeometry height="582" width="160" x="710" y="20" as="geometry" />
         </mxCell>
         <mxCell id="aedOz7NTgG5rMtCSXMwt-7" parent="aedOz7NTgG5rMtCSXMwt-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=24;labelBackgroundColor=none;spacing=3;" value="" vertex="1">
           <mxGeometry height="46" width="10" x="70" y="309" as="geometry" />
